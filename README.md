@@ -13,3 +13,4 @@ Para testar o código você precisará instalar a biblioteca selenium do python 
 
 ## ✒️ Autores
 
+O projeto foi inteiramente executado por mim.
